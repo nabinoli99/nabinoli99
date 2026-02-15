@@ -80,10 +80,6 @@ public class NabinOli {
 
 <div align="center">
   
-  ![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabinoli99&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinoli99&layout=compact&theme=radical&hide_border=true)
-  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinoli99&theme=radical&hide_border=true)
   
 </div>
