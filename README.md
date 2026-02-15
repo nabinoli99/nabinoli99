@@ -126,7 +126,7 @@ graph LR
   
   ### 🔥 "First, solve the problem. Then, write the code."
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=nabinoli99&color=brightgreen&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnabinoli99&label=Profile%20Views&countColor=%2337d67a&style=flat-square)
   
   ⭐️ From [nabinoli99](https://github.com/nabinoli99) | Always learning, always building  🚀 _ FinleySimula67
 
