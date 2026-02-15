@@ -51,7 +51,6 @@ public class NabinOli {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
@@ -62,7 +61,6 @@ public class NabinOli {
 **Spring Boot RESTful Backend with RBAC**
 - Implemented Role-Based Access Control (RBAC) for secure resource management
 - JWT-based stateless authentication & authorization
-- Dockerized deployment with PostgreSQL
 - **Stack:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Docker
 
 ### 🚗 [Parking Ledger System](https://github.com/nabinoli99/SpringFrameworkCodes/tree/main/Spring%20Projects/Vehicle_Parking_Entry)
@@ -72,10 +70,9 @@ public class NabinOli {
 - Comprehensive test coverage (94%) with JUnit 5
 - **Stack:** Java 17, Spring Boot, Spring Data JPA, PostgreSQL
 
-### 📦 [Inventory Management Microservice](https://github.com/nabinoli99/SpringFrameworkCodes)
+### 📦 [Inventory Management System](https://github.com/nabinoli99/SpringFrameworkCodes)
 **Audited Inventory System with JPA Entity Listeners**
 - Automatic audit logging using JPA Entity Listeners
-- Bulk CSV processing with validation pipelines
 - RESTful API design following best practices
 - **Stack:** Java, Spring Boot, Hibernate, JPA
 
@@ -98,8 +95,7 @@ graph LR
     A[C/C++ Foundations] --> B[Java & OOP]
     B --> C[Spring Boot]
     C --> D[Microservices]
-    D --> E[Docker & K8s]
-    E --> F[System Design]
+    D --> E[System Design]
     
     style C fill:#6DB33F
     style D fill:#orange
@@ -111,7 +107,7 @@ graph LR
 - ✅ Deep dive into Java Collections & Multi-threading
 - ✅ Built transactional APIs with Spring Boot & JPA
 - 🔄 Currently: JWT authentication, OAuth2, Redis caching
-- 🎯 Next: Kubernetes, gRPC, System Design patterns
+- 🎯 Next: System Design patterns and microservices
 
 ## 💼 What I'm Looking For
 
@@ -128,24 +124,6 @@ graph LR
 - 📍 Location: Kathmandu, Nepal
 - 🎥 YouTube: [@discoverynepal99](https://www.youtube.com/@discoverynepal99)
 
-## 💡 Fun Facts
-
-```java
-// My daily routine
-while (alive) {
-    eat();
-    code();
-    workout();
-    repeat();
-}
-```
-
-- 📚 Love reading tech blogs and system design articles
-- 🏋️ Fitness enthusiast - Code, books & workouts!
-- 🌏 Exploring Nepal and documenting on YouTube
-- ☕ Powered by coffee and clean code principles
-
----
 
 <div align="center">
   
@@ -153,6 +131,8 @@ while (alive) {
   
   ![Profile Views](https://komarev.com/ghpvc/?username=nabinoli99&color=brightgreen&style=flat-square)
   
-  ⭐️ From [nabinoli99](https://github.com/nabinoli99) | Always learning, always building 🚀
+  ⭐️ From [nabinoli99](https://github.com/nabinoli99) | Always learning, always building  🚀 _ FinleySimula67
+
+  > Nabin_StriveX <
   
 </div>
