@@ -1,16 +1,158 @@
-## Hi there 👋
+# Hi there, I'm Nabin Oli 👋
 
-<!--
-**nabinoli99/nabinoli99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-nabinoli.vercel.app-blue?style=for-the-badge&logo=vercel)](https://nabinoli.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-nabinstrivex@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabinstrivex@gmail.com)
+  [![YouTube](https://img.shields.io/badge/YouTube-discoverynepal99-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@discoverynepal99)
+  
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+public class NabinOli {
+    private String role = "Backend Architect";
+    private String education = "Class 12 @ Liverpool International College";
+    private String location = "Kathmandu, Nepal";
+    private String status = "AVAILABLE_FOR_INTERNSHIP";
+    
+    public String[] getCurrentFocus() {
+        return new String[]{
+            "Building production-ready REST APIs",
+            "Mastering Spring Boot ecosystem",
+            "Learning distributed systems & microservices",
+            "Exploring Docker & Kubernetes"
+        };
+    }
+}
+```
+
+🎯 **Backend Developer** specializing in **Java & Spring Boot** | Transforming low-level C/C++ logic into high-performance APIs  
+📚 17-year-old tech learner passionate about system architecture and scalable backend solutions  
+🔭 Currently exploring JWT authentication, Redis caching, and containerization with Docker
+
+## 🛠️ Tech Stack
+
+### Core Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+## 🏗️ Featured Projects
+
+### 🔐 [TaskMaster API](https://github.com/nabinoli99/TaskMaster_nb)
+**Spring Boot RESTful Backend with RBAC**
+- Implemented Role-Based Access Control (RBAC) for secure resource management
+- JWT-based stateless authentication & authorization
+- Dockerized deployment with PostgreSQL
+- **Stack:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Docker
+
+### 🚗 [Parking Ledger System](https://github.com/nabinoli99/SpringFrameworkCodes/tree/main/Spring%20Projects/Vehicle_Parking_Entry)
+**Transactional Entry/Exit Management System**
+- High-concurrency vehicle tracking with automated fee calculation
+- Financial-grade transaction management with Spring @Transactional
+- Comprehensive test coverage (94%) with JUnit 5
+- **Stack:** Java 17, Spring Boot, Spring Data JPA, PostgreSQL
+
+### 📦 [Inventory Management Microservice](https://github.com/nabinoli99/SpringFrameworkCodes)
+**Audited Inventory System with JPA Entity Listeners**
+- Automatic audit logging using JPA Entity Listeners
+- Bulk CSV processing with validation pipelines
+- RESTful API design following best practices
+- **Stack:** Java, Spring Boot, Hibernate, JPA
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  
+  ![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabinoli99&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinoli99&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinoli99&theme=radical&hide_border=true)
+  
+</div>
+
+## 🎯 Current Learning Path
+
+```mermaid
+graph LR
+    A[C/C++ Foundations] --> B[Java & OOP]
+    B --> C[Spring Boot]
+    C --> D[Microservices]
+    D --> E[Docker & K8s]
+    E --> F[System Design]
+    
+    style C fill:#6DB33F
+    style D fill:#orange
+    style E fill:#2496ED
+```
+
+**2024-2025 Journey:**
+- ✅ Mastered C/C++ memory models and pointers
+- ✅ Deep dive into Java Collections & Multi-threading
+- ✅ Built transactional APIs with Spring Boot & JPA
+- 🔄 Currently: JWT authentication, OAuth2, Redis caching
+- 🎯 Next: Kubernetes, gRPC, System Design patterns
+
+## 💼 What I'm Looking For
+
+🌟 **Open to:**
+- Backend Development Internships
+- Open-source collaborations
+- Code reviews and mentorship
+- Spring Boot project contributions
+
+## 📫 Let's Connect
+
+- 💼 Portfolio: [nabinoli.vercel.app](https://nabinoli.vercel.app/)
+- 📧 Email: nabinstrivex@gmail.com
+- 📍 Location: Kathmandu, Nepal
+- 🎥 YouTube: [@discoverynepal99](https://www.youtube.com/@discoverynepal99)
+
+## 💡 Fun Facts
+
+```java
+// My daily routine
+while (alive) {
+    eat();
+    code();
+    workout();
+    repeat();
+}
+```
+
+- 📚 Love reading tech blogs and system design articles
+- 🏋️ Fitness enthusiast - Code, books & workouts!
+- 🌏 Exploring Nepal and documenting on YouTube
+- ☕ Powered by coffee and clean code principles
+
+---
+
+<div align="center">
+  
+  ### 🔥 "First, solve the problem. Then, write the code." - John Johnson
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=nabinoli99&color=brightgreen&style=flat-square)
+  
+  ⭐️ From [nabinoli99](https://github.com/nabinoli99) | Always learning, always building 🚀
+  
+</div>
