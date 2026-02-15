@@ -127,7 +127,7 @@ graph LR
 
 <div align="center">
   
-  ### 🔥 "First, solve the problem. Then, write the code." - John Johnson
+  ### 🔥 "First, solve the problem. Then, write the code."
   
   ![Profile Views](https://komarev.com/ghpvc/?username=nabinoli99&color=brightgreen&style=flat-square)
   
