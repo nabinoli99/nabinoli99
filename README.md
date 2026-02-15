@@ -22,7 +22,7 @@ public class NabinOli {
             "Building production-ready REST APIs",
             "Mastering Spring Boot ecosystem",
             "Learning distributed systems & microservices",
-            "Exploring Docker & Kubernetes"
+            "Focusing on Spring Security"
         };
     }
 }
