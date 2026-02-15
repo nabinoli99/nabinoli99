@@ -90,7 +90,7 @@ public class NabinOli {
 graph LR
     A[C/C++ Foundations] --> B[Java & OOP]
     B --> C[Spring Boot]
-    c --> D[Spring Security]
+    C --> D[Spring Security]
     D --> E[Microservices]
     E --> F[System Design]
     
