@@ -28,9 +28,8 @@ public class NabinOli {
 }
 ```
 
-🎯 **Backend Developer** specializing in **Java & Spring Boot** | Transforming low-level C/C++ logic into high-performance APIs  
+🎯 **Backend Developer** specializing in **Java & Spring Boot** 
 📚 17-year-old tech learner passionate about system architecture and scalable backend solutions  
-🔭 Currently exploring JWT authentication, Redis caching, and containerization with Docker
 
 ## 🛠️ Tech Stack
 
