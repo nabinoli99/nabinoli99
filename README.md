@@ -55,29 +55,6 @@ public class NabinOli {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-## 🏗️ Featured Projects
-
-### 🔐 [TaskMaster API](https://github.com/nabinoli99/TaskMaster_nb)
-**Spring Boot RESTful Backend with RBAC**
-- Implemented Role-Based Access Control (RBAC) for secure resource management
-- JWT-based stateless authentication & authorization
-- **Stack:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Docker
-
-### 🚗 [Parking Ledger System](https://github.com/nabinoli99/SpringFrameworkCodes/tree/main/Spring%20Projects/Vehicle_Parking_Entry)
-**Transactional Entry/Exit Management System**
-- High-concurrency vehicle tracking with automated fee calculation
-- Financial-grade transaction management with Spring @Transactional
-- Comprehensive test coverage (94%) with JUnit 5
-- **Stack:** Java 17, Spring Boot, Spring Data JPA, PostgreSQL
-
-### 📦 [Inventory Management System](https://github.com/nabinoli99/SpringFrameworkCodes)
-**Audited Inventory System with JPA Entity Listeners**
-- Automatic audit logging using JPA Entity Listeners
-- RESTful API design following best practices
-- **Stack:** Java, Spring Boot, Hibernate, JPA
-
-## 📈 GitHub Statistics
-
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinoli99&theme=radical&hide_border=true)
@@ -99,28 +76,12 @@ graph LR
     style E fill:#2496ED
 ```
 
-**2024-2025 Journey:**
+**2025-2026 Journey:**
 - ✅ Mastered C/C++ memory models and pointers
 - ✅ Deep dive into Java Collections & Multi-threading
 - ✅ Built transactional APIs with Spring Boot & JPA
 - 🔄 Currently: JWT authentication, OAuth2, Redis caching
 - 🎯 Next: System Design patterns and microservices
-
-## 💼 What I'm Looking For
-
-🌟 **Open to:**
-- Backend Development Internships
-- Open-source collaborations
-- Code reviews and mentorship
-- Spring Boot project contributions
-
-## 📫 Let's Connect
-
-- 💼 Portfolio: [nabinoli.vercel.app](https://nabinoli.vercel.app/)
-- 📧 Email: nabinstrivex@gmail.com
-- 📍 Location: Kathmandu, Nepal
-- 🎥 YouTube: [@discoverynepal99](https://www.youtube.com/@discoverynepal99)
-
 
 <div align="center">
   
@@ -130,6 +91,6 @@ graph LR
   
   ⭐️ From [nabinoli99](https://github.com/nabinoli99) | Always learning, always building  🚀 _ FinleySimula67
 
-  > Nabin_StriveX <
+   > Nabin_StriveX <
   
 </div>
