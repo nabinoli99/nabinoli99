@@ -1,20 +1,26 @@
 # Hi there, I'm Nabin Oli 👋
 
-<div align="center">
-    
-[![Portfolio](https://img.shields.io/badge/Portfolio-nabin--oli.com.np-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nabin-oli.com.np)
+### Computer Engineering Student & Java Backend Developer
 
-</div>
+Currently pursuing a Bachelor's degree in Computer Engineering at **Cosmos College of Management and Technology**.
 
-## 🚀 About Me
+<p align="left">
+  <a href="https://www.cosmoscollege.edu.np/" target="_blank">
+    <img src="https://raw.githubusercontent.com/finleysimula67/finleysimula67/main/cosmos-college-logo.png" alt="Cosmos College" height="28">
+  </a>
+</p>
 
-```java
-public class NabinOli {
-    private String role = "Java Backend Developer";
-    private String currentProject = "Know Nepal";
-    private String status = "Open to Internship Opportunities";
-}
-```
+Interested in backend engineering, computer systems, and software development.
+
+<p align="left">
+  <a href="https://nabin-oli.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-nabin--oli.com.np-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+## 👨‍💻 About Me
+
+My current development focus is Java, Spring Boot, REST APIs, and PostgreSQL, while my Computer Engineering studies are building my foundation in computer systems, programming, networking, and engineering fundamentals. Currently building Know Nepal, an open-source project focused on organizing and making information about Nepal more accessible.
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +32,6 @@ public class NabinOli {
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -56,4 +61,3 @@ public class NabinOli {
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
